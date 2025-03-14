@@ -1,0 +1,14 @@
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\bin\Debug\net9.0\IcalculateArea.exe
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\bin\Debug\net9.0\IcalculateArea.deps.json
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\bin\Debug\net9.0\IcalculateArea.runtimeconfig.json
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\bin\Debug\net9.0\IcalculateArea.dll
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\bin\Debug\net9.0\IcalculateArea.pdb
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\IcalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\IcalculateArea.AssemblyInfoInputs.cache
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\IcalculateArea.AssemblyInfo.cs
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\IcalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\IcalculateArea.dll
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\refint\IcalculateArea.dll
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\IcalculateArea.pdb
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\IcalculateArea.genruntimeconfig.cache
+C:\Users\reddy\source\repos\IcalculateArea\IcalculateArea\obj\Debug\net9.0\ref\IcalculateArea.dll
